@@ -4,9 +4,6 @@
 [submodule "deps/djinni"]
 	path = deps/djinni
 	url = https://github.com/dropbox/djinni.git
-[submodule "deps/json11"]
-	path = deps/json11
-	url = https://github.com/libmx3/json11.git
 [submodule "deps/xcode-googletest"]
 	path = deps/xcode-googletest
 	url = https://github.com/mattstevens/xcode-googletest.git
